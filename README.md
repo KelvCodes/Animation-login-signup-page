@@ -40,7 +40,7 @@ A simple, modern, and fully responsive authentication system built with **HTML, 
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
-   No setup required—just play and have fun! 🎮  
+   No setup required—just sign up and sign in! 🚀
 
 ---
 
