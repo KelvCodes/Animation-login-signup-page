@@ -7,7 +7,7 @@ A simple, modern, and fully responsive authentication system built with **HTML, 
 
 ## 🌟 Features  
 - **📝 Sign-Up Form** – Register new users effortlessly
--  **🎮 Interactive UI**: A clean, modern, and engaging interface.. 
+- **🔑 Sign-In Form** – Securely log in with saved credentials 
 - **🔢 Real-Time Calculation**: Get instant results as you type.  
 - **🧮 Clear Display**: Shows both input and output in an organized manner.
 -  **🖱 Easy Reset**: Clear your input with a single button. 
