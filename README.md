@@ -1,8 +1,7 @@
 # 🔐Animated Sign-In & Sign-Up Forms 🚀
 
-Welcome to the **Calculator-App **! 🎉  
-A simple yet interactive calculator app built with **HTML**, **CSS**, and **JavaScript**. Perform quick calculations with a sleek and user-friendly interface. Ready to crunch some numbers? Let’s go! 🚀  
-
+Welcome to the **Sign-In & Sign-Up Forms** project! 🎉  
+A simple, modern, and fully responsive authentication system built with **HTML, CSS, and JavaScript**. Create and log into accounts seamlessly with a sleek and user-friendly interface. 🔥
 ---
 
 ## 🌟 Features  
