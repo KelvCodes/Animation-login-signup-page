@@ -9,7 +9,7 @@ A simple, modern, and fully responsive authentication system built with **HTML, 
 - **📝 Sign-Up Form** – Register new users effortlessly
 - **🔑 Sign-In Form** – Securely log in with saved credentials 
 - **📱 Responsive Design** – Looks great on all devices.   
-- **🎨 Clean UI** – A modern, intuitive, and engaging experience with. 
+- **🎨 Clean UI** – A modern, intuitive, and engaging experience with smooth. 
 -  **🖱 Easy Reset**: Clear your input with a single button. 
       
 
