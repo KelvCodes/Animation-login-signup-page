@@ -26,7 +26,7 @@ A simple, modern, and fully responsive authentication system built with **HTML, 
 
 ## 🚀 How to Use 
 1. **Open the App** – Load `index.html` in your browser. 🌐  
-2. **Perform Operations**: Use the `+`, `-`, `×`, and `÷` buttons for calculations.
+2. **Sign Up** – Enter your details and register a new account. ✍ 
 3. **View Results**: The result is displayed instantly 
 4. **Clear and Reset**: Use the `C` button to reset the calculator.  
 
